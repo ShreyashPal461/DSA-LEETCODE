@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0006-zigzag-conversion) |
+| [0067-add-binary](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0796-rotate-string) |
 ## Array
@@ -39,13 +40,19 @@
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0412-fizz-buzz) |
 ## String Matching
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0796-rotate-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
