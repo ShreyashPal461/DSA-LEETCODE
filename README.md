@@ -14,6 +14,7 @@
 | [0001-two-sum](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0496-next-greater-element-i) |
+| [1441-build-an-array-with-stack-operations](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1441-build-an-array-with-stack-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 | [0042-trapping-rain-water](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0496-next-greater-element-i) |
+| [1441-build-an-array-with-stack-operations](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1441-build-an-array-with-stack-operations) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -55,6 +57,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0412-fizz-buzz) |
+| [1441-build-an-array-with-stack-operations](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1441-build-an-array-with-stack-operations) |
 ## String Matching
 |  |
 | ------- |
