@@ -1,7 +1,7 @@
 class Solution {
     public int maxSubArray(int[] nums) {
-      long sum= 0;
-      long max = Long.MIN_VALUE;
+      int sum= 0;
+      int max = Integer.MIN_VALUE;
       
       for(int i=0;i<nums.length;i++){
         sum+=nums[i];
@@ -14,6 +14,6 @@ class Solution {
             sum=0;
         }
       }    
-        return (int)max;
+        return max;
     }
 }
