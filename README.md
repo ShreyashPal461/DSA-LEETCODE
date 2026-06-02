@@ -15,6 +15,7 @@
 | [0001-two-sum](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0118-pascals-triangle) |
 | [0496-next-greater-element-i](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0496-next-greater-element-i) |
@@ -77,9 +78,14 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0118-pascals-triangle) |
 ## Matrix
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0073-set-matrix-zeroes) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
