@@ -17,6 +17,7 @@
 | [0042-trapping-rain-water](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0118-pascals-triangle) |
 | [0496-next-greater-element-i](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0496-next-greater-element-i) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1441-build-an-array-with-stack-operations) |
@@ -48,6 +49,7 @@
 | ------- |
 | [0031-next-permutation](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0075-sort-colors) |
 | [0234-palindrome-linked-list](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0917-reverse-only-letters](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0917-reverse-only-letters) |
 ## Recursion
@@ -88,4 +90,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0053-maximum-subarray) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
