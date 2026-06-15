@@ -22,6 +22,7 @@
 | [0088-merge-sorted-array](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0287-find-the-duplicate-number](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0496-next-greater-element-i) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1441-build-an-array-with-stack-operations) |
 ## Hash Table
@@ -55,6 +56,7 @@
 | [0075-sort-colors](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0917-reverse-only-letters](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0917-reverse-only-letters) |
 ## Recursion
 |  |
@@ -80,6 +82,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0067-add-binary) |
+| [0287-find-the-duplicate-number](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -101,4 +104,8 @@
 | [0056-merge-intervals](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
