@@ -22,6 +22,7 @@
 | [0088-merge-sorted-array](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0496-next-greater-element-i) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1441-build-an-array-with-stack-operations) |
@@ -30,6 +31,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0496-next-greater-element-i) |
 ## Stack
 |  |
@@ -100,14 +102,20 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0287-find-the-duplicate-number) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
