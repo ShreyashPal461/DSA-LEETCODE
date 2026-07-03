@@ -28,6 +28,7 @@
 | [0229-majority-element-ii](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0724-find-pivot-index](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0724-find-pivot-index) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1441-build-an-array-with-stack-operations) |
 ## Hash Table
 |  |
@@ -139,4 +140,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0232-implement-queue-using-stacks) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
