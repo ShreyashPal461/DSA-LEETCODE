@@ -10,6 +10,7 @@
 | [0125-valid-palindrome](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0412-fizz-buzz) |
+| [0647-palindromic-substrings](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0917-reverse-only-letters) |
@@ -79,6 +80,7 @@
 | [0283-move-zeroes](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0344-reverse-string) |
+| [0647-palindromic-substrings](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0917-reverse-only-letters](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0917-reverse-only-letters) |
 ## Recursion
@@ -118,6 +120,7 @@
 | [0118-pascals-triangle](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0509-fibonacci-number) |
+| [0647-palindromic-substrings](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0647-palindromic-substrings) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Matrix
