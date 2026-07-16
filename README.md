@@ -8,6 +8,7 @@
 | [0020-valid-parentheses](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0125-valid-palindrome) |
+| [0257-binary-tree-paths](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0412-fizz-buzz) |
 | [0647-palindromic-substrings](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0647-palindromic-substrings) |
@@ -188,6 +189,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -198,6 +200,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -208,6 +211,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -215,4 +219,8 @@
 | [0100-same-tree](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0226-invert-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
