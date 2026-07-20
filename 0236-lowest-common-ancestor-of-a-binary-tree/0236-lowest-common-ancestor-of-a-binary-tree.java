@@ -1,6 +1,6 @@
 class Solution {
     public boolean exists(TreeNode root,TreeNode node){
-        if(node==root) return true;
+        if(root==node) return true;
         if(root==null) return false;
         return exists(root.left,node) || exists(root.right,node);
     }
