@@ -20,6 +20,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0053-maximum-subarray) |
@@ -77,6 +78,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0075-sort-colors) |
@@ -144,6 +146,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
