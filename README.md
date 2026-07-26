@@ -6,6 +6,7 @@
 | ------- |
 | [0006-zigzag-conversion](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0257-binary-tree-paths) |
@@ -86,6 +87,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0016-3sum-closest) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0075-sort-colors) |
@@ -122,6 +124,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0796-rotate-string) |
 ## Bit Manipulation
 |  |
