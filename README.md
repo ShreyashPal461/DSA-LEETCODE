@@ -172,6 +172,7 @@
 | [0162-find-peak-element](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0287-find-the-duplicate-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
 ## Counting
 |  |
 | ------- |
@@ -263,4 +264,8 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0643-maximum-average-subarray-i) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
