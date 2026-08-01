@@ -50,6 +50,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Hash Table
 |  |
 | ------- |
@@ -167,6 +168,7 @@
 | [0169-majority-element](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0229-majority-element-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Binary Search
 |  |
 | ------- |
@@ -205,6 +207,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0680-valid-palindrome-ii) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -286,4 +289,8 @@
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0933-number-of-recent-calls) |
+## Counting Sort
+|  |
+| ------- |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
