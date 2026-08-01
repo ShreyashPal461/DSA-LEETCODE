@@ -188,12 +188,14 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0232-implement-queue-using-stacks) |
+| [0933-number-of-recent-calls](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
+| [0933-number-of-recent-calls](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0933-number-of-recent-calls) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -280,4 +282,8 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
