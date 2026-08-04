@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0006-zigzag-conversion) |
+| [0013-roman-to-integer](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0067-add-binary) |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0219-contains-duplicate-ii) |
@@ -122,6 +124,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0412-fizz-buzz) |
