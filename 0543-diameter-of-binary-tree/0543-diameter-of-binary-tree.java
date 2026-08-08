@@ -1,18 +1,17 @@
 class Solution {
-    public int max(int a, int b, int c){
-        return Math.max(a,Math.max(b,c));
-
-    }
+    static int maxDia;
     public int levels(TreeNode root){
         if(root==null) return 0;
-        return 1 + Math.max(levels(root.left),levels(root.right));
+        int leftlevels = levels(root.left);
+        int rightlevels = levels(root.right);
+        int dia = leftlevels + rightlevels;
+        maxDia = Math.max(dia,maxDia);
+        return 1 + Math.max(leftlevels,rightlevels);
     }
     public int diameterOfBinaryTree(TreeNode root) {
-        if(root==null) return 0;
-        int myDia=levels(root.left)+levels(root.right);
-        int leftDia = diameterOfBinaryTree(root.left);
-        int rightDia = diameterOfBinaryTree(root.right);
-        return max(myDia,leftDia,rightDia);
+        maxDia=0;
+        levels(root);
+        return maxDia;
         
     }
 }
