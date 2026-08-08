@@ -312,4 +312,8 @@
 |  |
 | ------- |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
