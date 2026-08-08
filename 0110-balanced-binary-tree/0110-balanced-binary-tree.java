@@ -1,18 +1,17 @@
-
+// balanced dekhne le liye level less than or equal to 1 hona chyie 
 class Solution {
-    static boolean ans;
-    public int levels(TreeNode root){
+    public int levels(TreeNode root,boolean[] ans){
         if(root==null) return 0;
-        int leftlevels=levels(root.left);
-        int rightlevels=levels(root.right);
+        int leftlevels=levels(root.left,ans);
+        int rightlevels=levels(root.right,ans);
         int diff = Math.abs(leftlevels-rightlevels);
-        if(diff>1) ans=false;
+        if(diff>1) ans[0]=false;
         return 1 + Math.max(leftlevels,rightlevels);
     }
     public boolean isBalanced(TreeNode root) {
-        ans=true;
-        levels(root);
-        return ans;
+        boolean ans[]={true};
+        levels(root,ans);
+        return ans[0];
 
         
     }
