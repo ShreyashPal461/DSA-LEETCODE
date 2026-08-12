@@ -48,6 +48,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
+| [1306-jump-game-iii](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1306-jump-game-iii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -266,6 +267,7 @@
 | [0257-binary-tree-paths](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [1306-jump-game-iii](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1306-jump-game-iii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -293,6 +295,7 @@
 | [0112-path-sum](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0226-invert-binary-tree) |
+| [1306-jump-game-iii](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1306-jump-game-iii) |
 ## Backtracking
 |  |
 | ------- |
