@@ -253,6 +253,7 @@
 | [0257-binary-tree-paths](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0700-search-in-a-binary-search-tree](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -291,6 +292,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -331,4 +333,8 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
