@@ -259,6 +259,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0938-range-sum-of-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -281,6 +282,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0938-range-sum-of-bst](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0938-range-sum-of-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1306-jump-game-iii](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1306-jump-game-iii) |
 ## Binary Tree
 |  |
@@ -307,6 +309,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0938-range-sum-of-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -356,6 +359,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0938-range-sum-of-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Binary Lifting
 |  |
 | ------- |
