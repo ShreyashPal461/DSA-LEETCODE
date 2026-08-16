@@ -33,6 +33,7 @@
 | [0075-sort-colors](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -172,6 +173,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
 ## Sorting
@@ -242,6 +244,7 @@
 | [0101-symmetric-tree](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0113-path-sum-ii) |
@@ -293,6 +296,7 @@
 | [0101-symmetric-tree](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0113-path-sum-ii) |
@@ -354,6 +358,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
