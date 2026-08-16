@@ -176,6 +176,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
+| [1382-balance-a-binary-search-tree](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -226,6 +227,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0680-valid-palindrome-ii) |
+| [1382-balance-a-binary-search-tree](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Monotonic Queue
 |  |
@@ -263,6 +265,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -287,6 +290,7 @@
 | [0938-range-sum-of-bst](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1306-jump-game-iii](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1306-jump-game-iii) |
+| [1382-balance-a-binary-search-tree](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -314,6 +318,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -365,6 +370,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Lifting
 |  |
 | ------- |
