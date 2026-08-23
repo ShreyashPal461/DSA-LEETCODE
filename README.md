@@ -17,6 +17,7 @@
 | [0680-valid-palindrome-ii](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0917-reverse-only-letters) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Array
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +72,7 @@
 | [0229-majority-element-ii](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0496-next-greater-element-i) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -148,6 +151,7 @@
 | [0067-add-binary](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0412-fizz-buzz) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1441-build-an-array-with-stack-operations) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## String Matching
 |  |
 | ------- |
