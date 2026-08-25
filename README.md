@@ -59,6 +59,7 @@
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2094-finding-3-digit-even-numbers](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/2094-finding-3-digit-even-numbers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Hash Table
@@ -73,6 +74,7 @@
 | [0229-majority-element-ii](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0496-next-greater-element-i) |
 | [1207-unique-number-of-occurrences](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1207-unique-number-of-occurrences) |
+| [2094-finding-3-digit-even-numbers](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/2094-finding-3-digit-even-numbers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Stack
@@ -135,6 +137,7 @@
 | [0203-remove-linked-list-elements](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0509-fibonacci-number) |
+| [2094-finding-3-digit-even-numbers](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/2094-finding-3-digit-even-numbers) |
 ## Math
 |  |
 | ------- |
@@ -200,6 +203,7 @@
 | [0229-majority-element-ii](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0229-majority-element-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2094-finding-3-digit-even-numbers](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/2094-finding-3-digit-even-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -398,4 +402,8 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Enumeration
+|  |
+| ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/2094-finding-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
