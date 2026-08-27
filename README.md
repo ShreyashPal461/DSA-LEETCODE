@@ -18,6 +18,7 @@
 | [0680-valid-palindrome-ii](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0917-reverse-only-letters) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Array
@@ -78,6 +79,7 @@
 | [0229-majority-element-ii](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0496-next-greater-element-i) |
 | [1207-unique-number-of-occurrences](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1207-unique-number-of-occurrences) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/2094-finding-3-digit-even-numbers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -230,6 +232,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0229-majority-element-ii) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Design
 |  |
