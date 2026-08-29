@@ -44,6 +44,7 @@
 | [0162-find-peak-element](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0283-move-zeroes) |
@@ -199,6 +200,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
 | [1382-balance-a-binary-search-tree](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 ## Sorting
@@ -209,6 +211,7 @@
 | [0075-sort-colors](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0229-majority-element-ii) |
 | [0825-friends-of-appropriate-ages](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0825-friends-of-appropriate-ages) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -381,6 +384,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Data Stream
 |  |
@@ -420,4 +424,8 @@
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/2094-finding-3-digit-even-numbers) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
