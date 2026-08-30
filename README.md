@@ -56,6 +56,7 @@
 | [0724-find-pivot-index](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0724-find-pivot-index) |
 | [0825-friends-of-appropriate-ages](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0825-friends-of-appropriate-ages) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1207-unique-number-of-occurrences](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1207-unique-number-of-occurrences) |
 | [1306-jump-game-iii](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1306-jump-game-iii) |
@@ -158,6 +159,7 @@
 | [0412-fizz-buzz](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0633-sum-of-square-numbers) |
+| [0973-k-closest-points-to-origin](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Simulation
 |  |
@@ -202,6 +204,7 @@
 | [0169-majority-element](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 ## Sorting
 |  |
@@ -214,6 +217,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0229-majority-element-ii) |
 | [0825-friends-of-appropriate-ages](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0825-friends-of-appropriate-ages) |
+| [0973-k-closest-points-to-origin](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/2094-finding-3-digit-even-numbers) |
@@ -385,6 +389,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Data Stream
 |  |
@@ -428,4 +433,13 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
