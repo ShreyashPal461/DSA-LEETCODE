@@ -53,6 +53,7 @@
 | [0496-next-greater-element-i](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0724-find-pivot-index) |
 | [0825-friends-of-appropriate-ages](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0825-friends-of-appropriate-ages) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
@@ -135,6 +136,7 @@
 | [0344-reverse-string](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0647-palindromic-substrings) |
+| [0658-find-k-closest-elements](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0825-friends-of-appropriate-ages](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0825-friends-of-appropriate-ages) |
 | [0917-reverse-only-letters](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0917-reverse-only-letters) |
@@ -216,6 +218,7 @@
 | [0169-majority-element](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0229-majority-element-ii) |
+| [0658-find-k-closest-elements](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0825-friends-of-appropriate-ages](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0825-friends-of-appropriate-ages) |
 | [0973-k-closest-points-to-origin](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -232,6 +235,7 @@
 | [0287-find-the-duplicate-number](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
 | [0633-sum-of-square-numbers](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0633-sum-of-square-numbers) |
+| [0658-find-k-closest-elements](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0825-friends-of-appropriate-ages](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0825-friends-of-appropriate-ages) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Counting
@@ -381,6 +385,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0658-find-k-closest-elements) |
 ## Interactive
 |  |
 | ------- |
@@ -389,6 +394,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Data Stream
