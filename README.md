@@ -71,6 +71,7 @@
 | [2094-finding-3-digit-even-numbers](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/2094-finding-3-digit-even-numbers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -167,6 +168,7 @@
 | [0633-sum-of-square-numbers](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Simulation
 |  |
 | ------- |
