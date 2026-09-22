@@ -487,4 +487,5 @@
 | ------- |
 | [0182-duplicate-emails](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0182-duplicate-emails) |
 | [0196-delete-duplicate-emails](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0196-delete-duplicate-emails) |
+| [0511-game-play-analysis-i](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0511-game-play-analysis-i) |
 <!---LeetCode Topics End-->
