@@ -482,4 +482,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0169-majority-element) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
