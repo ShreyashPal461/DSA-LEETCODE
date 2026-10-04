@@ -27,6 +27,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -133,6 +134,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0016-3sum-closest) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0031-next-permutation) |
@@ -226,6 +228,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0075-sort-colors) |
