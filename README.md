@@ -489,4 +489,5 @@
 | [0182-duplicate-emails](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0182-duplicate-emails) |
 | [0196-delete-duplicate-emails](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0196-delete-duplicate-emails) |
 | [0511-game-play-analysis-i](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0511-game-play-analysis-i) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1327-list-the-products-ordered-in-a-period) |
 <!---LeetCode Topics End-->
