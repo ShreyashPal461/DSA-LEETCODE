@@ -56,6 +56,7 @@
 | [0287-find-the-duplicate-number](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0324-wiggle-sort-ii](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0410-split-array-largest-sum](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0503-next-greater-element-ii) |
@@ -204,6 +205,7 @@
 | [0118-pascals-triangle](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0647-palindromic-substrings) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
@@ -257,6 +259,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0633-sum-of-square-numbers](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0825-friends-of-appropriate-ages](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0825-friends-of-appropriate-ages) |
@@ -287,6 +290,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0724-find-pivot-index) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Greedy
@@ -294,6 +298,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0011-container-with-most-water) |
 | [0324-wiggle-sort-ii](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0324-wiggle-sort-ii) |
+| [0410-split-array-largest-sum](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
