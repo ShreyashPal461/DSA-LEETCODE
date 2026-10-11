@@ -45,6 +45,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0162-find-peak-element) |
@@ -91,6 +92,7 @@
 | [0049-group-anagrams](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0219-contains-duplicate-ii) |
@@ -505,4 +507,8 @@
 | [0196-delete-duplicate-emails](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0196-delete-duplicate-emails) |
 | [0511-game-play-analysis-i](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0511-game-play-analysis-i) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1327-list-the-products-ordered-in-a-period) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
