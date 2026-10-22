@@ -58,6 +58,7 @@
 | [0229-majority-element-ii](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0303-range-sum-query-immutable) |
 | [0324-wiggle-sort-ii](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0410-split-array-largest-sum) |
@@ -288,6 +289,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0303-range-sum-query-immutable) |
 | [0933-number-of-recent-calls](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
@@ -300,6 +302,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0724-find-pivot-index) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1930-unique-length-3-palindromic-subsequences) |
