@@ -81,6 +81,7 @@
 | [1306-jump-game-iii](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1306-jump-game-iii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1672-richest-customer-wealth](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1870-minimum-speed-to-arrive-on-time) |
@@ -231,6 +232,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [1672-richest-customer-wealth](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1672-richest-customer-wealth) |
 ## Divide and Conquer
 |  |
 | ------- |
