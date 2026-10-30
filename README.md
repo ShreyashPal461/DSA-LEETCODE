@@ -70,6 +70,7 @@
 | [0605-can-place-flowers](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0658-find-k-closest-elements) |
+| [0705-design-hashset](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0724-find-pivot-index) |
 | [0825-friends-of-appropriate-ages](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0825-friends-of-appropriate-ages) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
@@ -105,6 +106,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0705-design-hashset](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0705-design-hashset) |
 | [1207-unique-number-of-occurrences](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1207-unique-number-of-occurrences) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -141,6 +143,7 @@
 | [0002-add-two-numbers](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0234-palindrome-linked-list) |
+| [0705-design-hashset](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0705-design-hashset) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
 |  |
@@ -292,6 +295,7 @@
 | [0225-implement-stack-using-queues](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0303-range-sum-query-immutable) |
+| [0705-design-hashset](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0705-design-hashset) |
 | [0933-number-of-recent-calls](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
@@ -526,4 +530,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0014-longest-common-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
