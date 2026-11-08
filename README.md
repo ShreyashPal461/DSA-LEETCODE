@@ -71,6 +71,7 @@
 | [0485-max-consecutive-ones](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0658-find-k-closest-elements) |
@@ -113,6 +114,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0706-design-hashmap) |
 | [1207-unique-number-of-occurrences](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1207-unique-number-of-occurrences) |
@@ -327,6 +329,7 @@
 | [0303-range-sum-query-immutable](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0304-range-sum-query-2d-immutable) |
 | [0410-split-array-largest-sum](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/0724-find-pivot-index) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ShreyashPal461/DSA-LEETCODE/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Greedy
